@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+
+nav {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    white-space: nowrap;
+}
+
+#a_kontakt,
+#a_o-mnie,
+#a_home {
+    border-style: solid;
+    font-size: 20px;
+    color: black;
+    text-decoration-line: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px;
+}
+
+#a_home {
+    color: white;
+    border-color: black;
+    background-color: #27276d;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin-top: 15px;
+}
+
+#home {
+    background-color: rgba(255, 178, 35, 0.75);
+    padding-right: 30%;
+}
+
+#o-mnie,
+#kontakt {
+    background-color: rgba(55, 165, 55, 0.75);
+}
+
+footer {
+    text-align: center;
+    margin-top: 15px;
+    padding: 5px;
+    background-color: rgba(183, 183, 183, 0.75);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+#tu-mnie-znajdziesz {
+    padding: 10px;
+
+}
+
+#a_link {
+    color: black;
+}
